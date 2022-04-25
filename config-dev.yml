@@ -1,3 +1,4 @@
-name: welkin
-age: 23
-address: chengdu
+friend:
+  name: welkin
+  age: 23
+  address: chengdu
